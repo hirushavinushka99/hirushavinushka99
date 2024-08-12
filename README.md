@@ -1,66 +1,39 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=117&color=F35A61&section=header&reversal=false'>
 
-<h1 align="center">Hi 👋, I'm Hirusha De Silva</h1>
-<h3 align="center">Undergraduate Student of Sabaragamuwa University of Sri lanka</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=F35A61&center=true&multiline=true&random=false&width=1000&lines=Hello,+Welcome+to+my+GitHub!" alt="Typing SVG" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirushavinushka99&label=Profile%20views&color=0e75b6&style=flat" alt="hirushavinushka99" /> </p>
+## ⚡ Git Stats ⚡
+<div>
+  <a href="https://github.com/hirushavinushka99">
+    <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirushavinushka99&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="140em" src="https://streak-stats.demolab.com?user=hirushavinushka99&theme=algolia" alt="GitHub Streak" />  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hirushavinushka99&theme=algolia">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hirushavinushka99&theme=algolia">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hirushavinushka99&theme=algolia">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hirushavinushka99&theme=algolia">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hirushavinushka99&theme=algolia">
+  </a>
+</div>
+    
+## 👑 Trophy 👑  
+<div>    
+  <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=hirushavinushka99&theme=algolia&column=-1&rank=-?"></a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirushavinushka99" alt="hirushavinushka99" /></a> </p>
+<div align=center>
+  <h2>Languages and Tools</h2>
+  <h3>Programming Languages</h3>
+    <img src="https://skillicons.dev/icons?i=java,laravel,python,php,js,nodejs,express,vue">
+  <h3>Databases</h3>
+   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite">
+  <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,arduino">
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hirushadesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirusha de silva" height="30" width="40" /></a>
-<a href="https://fb.com/hirusha.vinushka.315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hirusha vinushka" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hirusha_vinushka?igsh=OGoxYnMxamFvOWVz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hirusha vinushka" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **MERN**
-
-- 🧑‍🎓 I’m an Undergraduate at **Sabaragamuwa University of SriLanka**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **vinushka2001@gmail.com**
-  
-
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
-</tr>
-</table>
----
-
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hirushavinushka99&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hirushavinushka99&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hirushavinushka99&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
----
+<div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;'>
+  <a href="https://www.linkedin.com/in/hirushadesilva" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
+</div>
