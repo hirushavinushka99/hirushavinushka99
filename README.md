@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **shvdesilva@std.appsc.sab.ac.lk**
+- 📫 How to reach me **vinushka2001@gmail.com**
   
 
 
