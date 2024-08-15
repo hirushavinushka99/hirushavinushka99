@@ -23,7 +23,7 @@
 </div>
 
 <div align=center>
-  <h2>Languages and Tools</h2>
+  <h2>Languages and Tool</h2>
   <h3>Programming Languages</h3>
     <img src="https://skillicons.dev/icons?i=java,laravel,python,php,js,nodejs,express,vue">
   <h3>Databases</h3>
