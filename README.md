@@ -24,7 +24,7 @@
 
 <div align=center>
   <h2>Languages and Tools</h2>
-  <h3>Programming Languagess</h3>
+  <h3>Programming Languages</h3>
     <img src="https://skillicons.dev/icons?i=java,laravel,python,php,js,nodejs,express,vue">
   <h3>Databases</h3>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite">
