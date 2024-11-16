@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9fbcaac9-9a80-48be-aa49-ff24cda8f2ed" alt="doconghoa">
+</p>
+
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Hirusha+De+Silva..;Undergraduate+Student..;Faculty+Of+Computing..;Sabaragamuwa+University&center=true"></a></p> 
