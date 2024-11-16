@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9fbcaac9-9a80-48be-aa49-ff24cda8f2ed" alt="doconghoa">
+  <img src="https://github.com/user-attachments/assets/9fbcaac9-9a80-48be-aa49-ff24cda8f2ed" alt="doconghoa" width="150">
 </p>
 <br/>
 
