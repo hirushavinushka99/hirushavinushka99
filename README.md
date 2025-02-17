@@ -104,4 +104,4 @@ JavaScript   3 hrs 58 mins    ████████████████�
 ```
 <!--END_SECTION:waka-->
 
-![views since 2024/11/12](https://visitor-badge-deno.deno.dev/hirushavinushka99.hirushavinushka99.svg)
+![Visitor Count](https://profile-counter.glitch.me/{hirushavinushka99}/count.svg)
